@@ -51,7 +51,7 @@ project/
 
 # Cara Menjalankan
 
-notes: Jika mau langsung test bisa melanjutkan langkah dibawah, namun jika ingin dari tahap ambil dataset bisa di mulai dari awal prosesnya dengan menjalankan "collect_dataset.
+notes: Jika mau langsung test bisa melanjutkan langkah dibawah ke tahap nomor 4, namun jika ingin dari tahap ambil dataset bisa di mulai dari awal prosesnya dengan menjalankan "collect_dataset.
 
 ## 1. Landmark Extraction
 
