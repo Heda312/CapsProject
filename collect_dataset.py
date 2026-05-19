@@ -7,7 +7,7 @@ import string
 # CONFIG
 # ======================================
 
-DATASET_PATH = "dataset"
+DATASET_PATH = "dataset_raw"
 
 FRAME_WIDTH = 512
 FRAME_HEIGHT = 512
@@ -15,7 +15,7 @@ FRAME_HEIGHT = 512
 FPS = 30
 VIDEO_DURATION = 5
 
-COUNTDOWN = 3
+COUNTDOWN = 1
 VIDEOS_PER_LABEL = 15
 
 # ======================================
